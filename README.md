@@ -2,6 +2,8 @@
 
 A simple project to learn the Nuxt framework. In this repository I'll tryout new things to become better at Nuxt.
 
+---
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
